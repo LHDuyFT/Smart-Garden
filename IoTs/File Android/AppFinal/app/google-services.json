@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "697424313033",
+    "firebase_url": "https://dhtfinal.firebaseio.com",
+    "project_id": "dhtfinal",
+    "storage_bucket": "dhtfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697424313033:android:791e42e688ee325a",
+        "android_client_info": {
+          "package_name": "com.huekh70.appfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697424313033-fu2iqm6778gpisjumtjdi98bumgf0kkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wShmQj1ZrjJyIv7PLdBaeb5NK88zUT0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
